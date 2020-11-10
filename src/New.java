@@ -5,6 +5,7 @@ public class New {
         System.out.println("Hello");
         // B21 is good at Intellij
         // ok
+        System.out.println("ok");
 
     }
 
